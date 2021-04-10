@@ -1,1 +1,1 @@
-# Embedded-Linux-Kernel-Programminig
+# Embedded-Linux & Kernel-Programminig
