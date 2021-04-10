@@ -58,5 +58,5 @@ static void __exit wqdemo_exit(void) {       //cleanup_module
 module_init(wqdemo_init);
 module_exit(wqdemo_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Rajesh Sola");
+MODULE_AUTHOR("Suvradeep");
 MODULE_DESCRIPTION("Thread Example Module");
